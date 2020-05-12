@@ -1,3 +1,7 @@
+<header>
+    <h1>Adree (Mughda) Khondker</h1>
+</header>
+
 I am a medical student at the University of Toronto. My research interests in basic science include using physical chemistry to understand human disease. Using techniques from molecular dynamics (MD) simulations, x-ray crystallography, and spectroscopy, I hope to find new ways to quantify biological processes in disease.
 
 Working with <a href="https://www.leelab-utoronto.com/">Dr. Jeffrey E. Lee</a>. in the Department of Laboratory Medicine and Pathobiology, I am researching the immune escape of viral proteins and cell-cell fusion mechanisms through MD simulations. We use Markov-state modelling, hybrid quantum mechanics/molecular mechanics and conventional MD simulations on SciNet to understand these topics.

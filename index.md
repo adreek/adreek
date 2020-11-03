@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+###Adree (Mughda) Khondker</h1>#
 
-You can use the [editor on GitHub](https://github.com/adreek/adreek/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a medical student at the University of Toronto. My research interests in basic science include using physical chemistry to understand human disease. Using techniques from molecular dynamics (MD) simulations, x-ray crystallography, and spectroscopy, I hope to find new ways to quantify biological processes in disease.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Working with <a href="https://www.leelab-utoronto.com/">Dr. Jeffrey E. Lee</a>. in the Department of Laboratory Medicine and Pathobiology, I am researching the immune escape of viral proteins and cell-cell fusion mechanisms through MD simulations. We use Markov-state modelling, hybrid quantum mechanics/molecular mechanics and conventional MD simulations on SciNet to understand these topics.
 
-### Markdown
+As an undergraduate student, I researched with <a href="http://www.rheinstaedter.de/maikel/">Dr. Maikel C. Rheinstadter</a> at McMaster University in the broad field of membrane biophysics. We provided new insights on the mechanisms of bacterial resistance for polymyxin antibiotics, developed new techniques for structural analysis of lipid membranes, and worked on the aggregation of peptides in neurodegenerative diseases. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My full publication list can be found on <a href="https://scholar.google.ca/citations?user=ZHtyc_kAAAAJ&hl=en">Google Scholar</a>.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adreek/adreek/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to get in touch, please feel free to contact me adree.khondker [at] mail.utoronto.ca, or <a href="https://twitter.com/AdreeKhondker">@adreekhondker</a>.

@@ -1,4 +1,4 @@
-### Adree (Mughda) Khondker</h1>#
+### Adree (Mughda) Khondker
 
 I am a medical student at the University of Toronto. My research interests in basic science include using physical chemistry to understand human disease. Using techniques from molecular dynamics (MD) simulations, x-ray crystallography, and spectroscopy, I hope to find new ways to quantify biological processes in disease.
 

@@ -2,11 +2,9 @@
     <h1>Adree (Mughda) Khondker</h1>
 </header>
 
-I am a medical student at the University of Toronto. My research interests in basic science include using physical chemistry to understand human disease. Using techniques from molecular dynamics (MD) simulations, x-ray crystallography, and spectroscopy, I hope to find new ways to quantify biological processes in disease.
+I am a medical student at the University of Toronto. My research interests include using maching learning to determine clinically-significant associations and develop new tools to better care for patients. Working with the Division of Urology at the Hospital for Sick Children (Toronto, ON), we have developed numerous tools to standardize vesicoureteral reflux grading, determine prognosis in children with posterior urethral valve, and predict post-operative complications.
 
-Working with <a href="https://www.leelab-utoronto.com/">Dr. Jeffrey E. Lee</a>. in the Department of Laboratory Medicine and Pathobiology, I am researching the immune escape of viral proteins and cell-cell fusion mechanisms through MD simulations. We use Markov-state modelling, hybrid quantum mechanics/molecular mechanics and conventional MD simulations on SciNet to understand these topics.
-
-As an undergraduate student, I researched with <a href="http://www.rheinstaedter.de/maikel/">Dr. Maikel C. Rheinstadter</a> at McMaster University in the broad field of membrane biophysics. We provided new insights on the mechanisms of bacterial resistance for polymyxin antibiotics, developed new techniques for structural analysis of lipid membranes, and worked on the aggregation of peptides in neurodegenerative diseases. 
+I have previously worked extensively in the field of memmbrane biophysics at the Department of Physics and Astronomy at McMaster University with <a href="http://www.rheinstaedter.de/maikel/">Dr. Maikel C. Rheinstadter</a>. We provided new insights on the mechanisms of bacterial resistance for polymyxin antibiotics, developed new techniques for structural analysis of lipid membranes, and worked on the aggregation of peptides in neurodegenerative diseases. 
 
 My full publication list can be found on <a href="https://scholar.google.ca/citations?user=ZHtyc_kAAAAJ&hl=en">Google Scholar</a>.
 
